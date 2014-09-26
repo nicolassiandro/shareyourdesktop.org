@@ -1,0 +1,23 @@
+{
+  "name": "shareyourdesktop.org",
+  "version": "1.0.0",
+  "description": "We are a website for sharing your Linux Desktop configuration with the community.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "desktop",
+    "linux",
+    "sharing",
+    "community",
+    "open",
+    "source"
+  ],
+  "author": "Nicolás Siandro",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^1.5.0",
+    "gulp": "^3.8.8"
+  }
+}
